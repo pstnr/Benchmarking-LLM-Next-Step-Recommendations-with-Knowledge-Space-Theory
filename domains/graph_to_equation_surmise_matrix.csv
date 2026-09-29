@@ -1,0 +1,6 @@
+prerequisite / target,GE1,GE2,GE3,GE4,GE5
+GE1,1,1,1,0,1
+GE2,0,1,1,0,1
+GE3,0,0,1,0,1
+GE4,0,0,0,1,1
+GE5,0,0,0,0,1

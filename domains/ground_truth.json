@@ -1,0 +1,811 @@
+[
+  {
+    "domain_id": "linear_modelling",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "LM_STATE_001",
+    "mastered_items": [],
+    "fringe_items": [
+      "LM1",
+      "LM2",
+      "LM3"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "linear_modelling",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "LM_STATE_002",
+    "mastered_items": [
+      "LM1"
+    ],
+    "fringe_items": [
+      "LM2",
+      "LM3"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "linear_modelling",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "LM_STATE_003",
+    "mastered_items": [
+      "LM2"
+    ],
+    "fringe_items": [
+      "LM1",
+      "LM3",
+      "LM5"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "linear_modelling",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "LM_STATE_004",
+    "mastered_items": [
+      "LM3"
+    ],
+    "fringe_items": [
+      "LM1",
+      "LM2",
+      "LM6"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "linear_modelling",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "LM_STATE_005",
+    "mastered_items": [
+      "LM1",
+      "LM2"
+    ],
+    "fringe_items": [
+      "LM3",
+      "LM5"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "linear_modelling",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "LM_STATE_006",
+    "mastered_items": [
+      "LM1",
+      "LM3"
+    ],
+    "fringe_items": [
+      "LM2",
+      "LM6"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "linear_modelling",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "LM_STATE_007",
+    "mastered_items": [
+      "LM2",
+      "LM3"
+    ],
+    "fringe_items": [
+      "LM1",
+      "LM5",
+      "LM6"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "linear_modelling",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "LM_STATE_008",
+    "mastered_items": [
+      "LM2",
+      "LM5"
+    ],
+    "fringe_items": [
+      "LM1",
+      "LM3"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "linear_modelling",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "LM_STATE_009",
+    "mastered_items": [
+      "LM3",
+      "LM6"
+    ],
+    "fringe_items": [
+      "LM1",
+      "LM2"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "linear_modelling",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "LM_STATE_010",
+    "mastered_items": [
+      "LM1",
+      "LM2",
+      "LM3"
+    ],
+    "fringe_items": [
+      "LM4",
+      "LM5",
+      "LM6"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "linear_modelling",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "LM_STATE_011",
+    "mastered_items": [
+      "LM1",
+      "LM2",
+      "LM5"
+    ],
+    "fringe_items": [
+      "LM3"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "linear_modelling",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "LM_STATE_012",
+    "mastered_items": [
+      "LM1",
+      "LM3",
+      "LM6"
+    ],
+    "fringe_items": [
+      "LM2"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "linear_modelling",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "LM_STATE_013",
+    "mastered_items": [
+      "LM2",
+      "LM3",
+      "LM5"
+    ],
+    "fringe_items": [
+      "LM1",
+      "LM6"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "linear_modelling",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "LM_STATE_014",
+    "mastered_items": [
+      "LM2",
+      "LM3",
+      "LM6"
+    ],
+    "fringe_items": [
+      "LM1",
+      "LM5"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "linear_modelling",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "LM_STATE_015",
+    "mastered_items": [
+      "LM1",
+      "LM2",
+      "LM3",
+      "LM4"
+    ],
+    "fringe_items": [
+      "LM5",
+      "LM6"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "linear_modelling",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "LM_STATE_016",
+    "mastered_items": [
+      "LM1",
+      "LM2",
+      "LM3",
+      "LM5"
+    ],
+    "fringe_items": [
+      "LM4",
+      "LM6"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "linear_modelling",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "LM_STATE_017",
+    "mastered_items": [
+      "LM1",
+      "LM2",
+      "LM3",
+      "LM6"
+    ],
+    "fringe_items": [
+      "LM4",
+      "LM5"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "linear_modelling",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "LM_STATE_018",
+    "mastered_items": [
+      "LM2",
+      "LM3",
+      "LM5",
+      "LM6"
+    ],
+    "fringe_items": [
+      "LM1"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "linear_modelling",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "LM_STATE_019",
+    "mastered_items": [
+      "LM1",
+      "LM2",
+      "LM3",
+      "LM4",
+      "LM5"
+    ],
+    "fringe_items": [
+      "LM6"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "linear_modelling",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "LM_STATE_020",
+    "mastered_items": [
+      "LM1",
+      "LM2",
+      "LM3",
+      "LM4",
+      "LM6"
+    ],
+    "fringe_items": [
+      "LM5"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "linear_modelling",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "LM_STATE_021",
+    "mastered_items": [
+      "LM1",
+      "LM2",
+      "LM3",
+      "LM5",
+      "LM6"
+    ],
+    "fringe_items": [
+      "LM4"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "linear_modelling",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "LM_STATE_022",
+    "mastered_items": [
+      "LM1",
+      "LM2",
+      "LM3",
+      "LM4",
+      "LM5",
+      "LM6"
+    ],
+    "fringe_items": [
+      "LM7"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "linear_modelling",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "LM_STATE_023",
+    "mastered_items": [
+      "LM1",
+      "LM2",
+      "LM3",
+      "LM4",
+      "LM5",
+      "LM6",
+      "LM7"
+    ],
+    "fringe_items": [],
+    "is_terminal": true,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "slope",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "SL_STATE_001",
+    "mastered_items": [],
+    "fringe_items": [
+      "SL1"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "slope",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "SL_STATE_002",
+    "mastered_items": [
+      "SL1"
+    ],
+    "fringe_items": [
+      "SL2",
+      "SL4"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "slope",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "SL_STATE_003",
+    "mastered_items": [
+      "SL1",
+      "SL2"
+    ],
+    "fringe_items": [
+      "SL4"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "slope",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "SL_STATE_004",
+    "mastered_items": [
+      "SL1",
+      "SL4"
+    ],
+    "fringe_items": [
+      "SL2",
+      "SL7"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "slope",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "SL_STATE_005",
+    "mastered_items": [
+      "SL1",
+      "SL2",
+      "SL4"
+    ],
+    "fringe_items": [
+      "SL3",
+      "SL7"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "slope",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "SL_STATE_006",
+    "mastered_items": [
+      "SL1",
+      "SL4",
+      "SL7"
+    ],
+    "fringe_items": [
+      "SL2"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "slope",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "SL_STATE_007",
+    "mastered_items": [
+      "SL1",
+      "SL2",
+      "SL3",
+      "SL4"
+    ],
+    "fringe_items": [
+      "SL7"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "slope",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "SL_STATE_008",
+    "mastered_items": [
+      "SL1",
+      "SL2",
+      "SL4",
+      "SL7"
+    ],
+    "fringe_items": [
+      "SL3"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "slope",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "SL_STATE_009",
+    "mastered_items": [
+      "SL1",
+      "SL2",
+      "SL3",
+      "SL4",
+      "SL7"
+    ],
+    "fringe_items": [
+      "SL5"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "slope",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "SL_STATE_010",
+    "mastered_items": [
+      "SL1",
+      "SL2",
+      "SL3",
+      "SL4",
+      "SL5",
+      "SL7"
+    ],
+    "fringe_items": [
+      "SL6"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "slope",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "SL_STATE_011",
+    "mastered_items": [
+      "SL1",
+      "SL2",
+      "SL3",
+      "SL4",
+      "SL5",
+      "SL6",
+      "SL7"
+    ],
+    "fringe_items": [],
+    "is_terminal": true,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "graph_to_equation",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "GE_STATE_001",
+    "mastered_items": [],
+    "fringe_items": [
+      "GE1",
+      "GE4"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "graph_to_equation",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "GE_STATE_002",
+    "mastered_items": [
+      "GE1"
+    ],
+    "fringe_items": [
+      "GE2",
+      "GE4"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "graph_to_equation",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "GE_STATE_003",
+    "mastered_items": [
+      "GE4"
+    ],
+    "fringe_items": [
+      "GE1"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "graph_to_equation",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "GE_STATE_004",
+    "mastered_items": [
+      "GE1",
+      "GE2"
+    ],
+    "fringe_items": [
+      "GE3",
+      "GE4"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "graph_to_equation",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "GE_STATE_005",
+    "mastered_items": [
+      "GE1",
+      "GE4"
+    ],
+    "fringe_items": [
+      "GE2"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "graph_to_equation",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "GE_STATE_006",
+    "mastered_items": [
+      "GE1",
+      "GE2",
+      "GE3"
+    ],
+    "fringe_items": [
+      "GE4"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "graph_to_equation",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "GE_STATE_007",
+    "mastered_items": [
+      "GE1",
+      "GE2",
+      "GE4"
+    ],
+    "fringe_items": [
+      "GE3"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "graph_to_equation",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "GE_STATE_008",
+    "mastered_items": [
+      "GE1",
+      "GE2",
+      "GE3",
+      "GE4"
+    ],
+    "fringe_items": [
+      "GE5"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "graph_to_equation",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "GE_STATE_009",
+    "mastered_items": [
+      "GE1",
+      "GE2",
+      "GE3",
+      "GE4",
+      "GE5"
+    ],
+    "fringe_items": [],
+    "is_terminal": true,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "equation_to_graph",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "EG_STATE_001",
+    "mastered_items": [],
+    "fringe_items": [
+      "EG1",
+      "EG3"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "equation_to_graph",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "EG_STATE_002",
+    "mastered_items": [
+      "EG1"
+    ],
+    "fringe_items": [
+      "EG2",
+      "EG3"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "equation_to_graph",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "EG_STATE_003",
+    "mastered_items": [
+      "EG3"
+    ],
+    "fringe_items": [
+      "EG1"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "equation_to_graph",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "EG_STATE_004",
+    "mastered_items": [
+      "EG1",
+      "EG2"
+    ],
+    "fringe_items": [
+      "EG3"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "equation_to_graph",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "EG_STATE_005",
+    "mastered_items": [
+      "EG1",
+      "EG3"
+    ],
+    "fringe_items": [
+      "EG2"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "equation_to_graph",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "EG_STATE_006",
+    "mastered_items": [
+      "EG1",
+      "EG2",
+      "EG3"
+    ],
+    "fringe_items": [
+      "EG4"
+    ],
+    "is_terminal": false,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  },
+  {
+    "domain_id": "equation_to_graph",
+    "domain_version": "1.6-external-review-approved",
+    "state_id": "EG_STATE_007",
+    "mastered_items": [
+      "EG1",
+      "EG2",
+      "EG3",
+      "EG4"
+    ],
+    "fringe_items": [],
+    "is_terminal": true,
+    "structure_version": "1.6-external-review-approved",
+    "review_status": "independent_external_review_approved"
+  }
+]

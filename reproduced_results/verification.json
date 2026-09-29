@@ -1,0 +1,28 @@
+{
+  "python": "3.12.10",
+  "seed": 20260909,
+  "responses": 2400,
+  "overall": {
+    "all": "Overall",
+    "n": 2400,
+    "schema_valid_n": 2400,
+    "schema_valid_rate": 1,
+    "exact_n": 1912,
+    "exact_accuracy": 0.7966666666666666,
+    "precision_macro": 0.8961527777777778,
+    "recall_macro": 0.9286805555555555,
+    "f1_macro": 0.9017916666666667,
+    "jaccard_macro": 0.8760347222222222
+  },
+  "order": {
+    "complete_pairs": 1200,
+    "valid_pairs": 1200,
+    "exact_agreement": 0.8525,
+    "jaccard": 0.9254861111111111
+  },
+  "terminal": {
+    "n_responses": 192,
+    "exact": 1
+  },
+  "checks": "All reference comparisons passed"
+}

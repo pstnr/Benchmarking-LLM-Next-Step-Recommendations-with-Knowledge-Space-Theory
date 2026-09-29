@@ -1,0 +1,5 @@
+domain_id,display_name,domain_family,domain_version,structure_version,structure_review_status,review_status,item_count,state_count
+linear_modelling,Linear Modelling,legacy,1.6-external-review-approved,1.6-external-review-approved,approved_during_author_review,independent_external_review_approved,7,23
+slope,Slope,legacy,1.6-external-review-approved,1.6-external-review-approved,approved_during_author_review,independent_external_review_approved,7,11
+graph_to_equation,Graph to Equation,redesigned_2026,1.6-external-review-approved,1.6-external-review-approved,approved_during_author_review,independent_external_review_approved,5,9
+equation_to_graph,Equation to Graph,redesigned_2026,1.6-external-review-approved,1.6-external-review-approved,approved_during_author_review,independent_external_review_approved,4,7
