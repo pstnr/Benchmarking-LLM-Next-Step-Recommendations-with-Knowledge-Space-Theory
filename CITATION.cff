@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this supplement, please cite it using the metadata below."
+type: software
+title: "Benchmarking LLM Next-Step Recommendations with Knowledge Space Theory: Reproducible supplement"
+authors:
+  - family-names: Steiner
+    given-names: Peter
+    orcid: "https://orcid.org/0009-0001-5491-9464"
+    affiliation: "St.Gallen University of Teacher Education (PHSG), Switzerland"
+  - family-names: Hochweber
+    given-names: Jan
+    orcid: "https://orcid.org/0000-0002-7855-2097"
+    affiliation: "St.Gallen University of Teacher Education (PHSG), Switzerland"
+version: 1.0.0
+date-released: 2026-11-03
+repository-code: "https://github.com/pstnr/Benchmarking-LLM-Next-Step-Recommendations-with-Knowledge-Space-Theory"
+url: "https://github.com/pstnr/Benchmarking-LLM-Next-Step-Recommendations-with-Knowledge-Space-Theory"
+license:
+  - MIT
+  - CC-BY-4.0
+abstract: "Reproducible analysis of 2,400 LLM next-step recommendation sets against Knowledge Space Theory references across four mathematics domains. Code is MIT-licensed; data and documentation, including embedded datasets, are licensed under CC BY 4.0."
+keywords:
+  - knowledge space theory
+  - learning analytics
+  - large language models
+  - benchmarking
+  - reproducibility

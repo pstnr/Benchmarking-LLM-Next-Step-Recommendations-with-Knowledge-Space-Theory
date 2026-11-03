@@ -343,4 +343,7 @@ print('Outputs:', OUT.resolve())
 
 # ## Source files
 # 
-# `source_manifest.json`: SHA-256 checksums of the manuscript, analysis code, study plan, structures and response files. `build_supplement.py`: rebuild from the original repository.
+# Internal build scripts and the source manifest are retained in the study archive.
+# They are not distributed here and are not required to run this supplement.
+# Code: MIT. Embedded data and explanatory text: CC BY 4.0.
+# See LICENSE, LICENSE-CONTENT and CITATION.cff.

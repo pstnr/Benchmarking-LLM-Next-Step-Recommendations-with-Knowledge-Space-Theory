@@ -1,0 +1,26 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Peter Steiner and Jan Hochweber
+
+Except where otherwise indicated, the data and documentation in this
+repository are licensed under the Creative Commons Attribution 4.0
+International License:
+https://creativecommons.org/licenses/by/4.0/
+
+The full legal terms are available at:
+https://creativecommons.org/licenses/by/4.0/legalcode.en
+
+This license applies to README.md, CITATION.cff, domains/,
+reproduced_results/, notebook markdown and outputs, explanatory prose,
+and datasets and reference data embedded in reproduce.py and
+KST_Reproducible_Companion.ipynb. Executable analysis code is licensed
+separately under MIT; see LICENSE.
+
+When reusing this content, credit Peter Steiner and Jan Hochweber, identify
+the supplement by title and repository URL, link to CC BY 4.0, and indicate
+any changes. See CITATION.cff for citation metadata.
+
+Repository:
+https://github.com/pstnr/Benchmarking-LLM-Next-Step-Recommendations-with-Knowledge-Space-Theory
+
+The manuscript's license is independent of these supplement licenses.
